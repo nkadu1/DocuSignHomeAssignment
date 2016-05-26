@@ -3,8 +3,6 @@
 Project: DressUp
 
 IDE Used: Eclipse 
-# Recommender-Systems
-
 
 Problem Description
 Problem:
